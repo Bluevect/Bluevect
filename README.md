@@ -1,7 +1,5 @@
 👋 Hi, I’m @Bluevect
 
-🌱 Started to learn coding in 2019 by interest.
-
 🌱 Currently learning [Java](https://www.oracle.com/java/).
 
 👀 Love things with **logic**!
