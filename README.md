@@ -6,7 +6,7 @@
 
 ---
 
-✨ **The more direct, the faster to the way.**
+✨ **Practice makes perfect.**
 
 <!---
 - 👋 Hi, I’m @Bluevect
