@@ -1,12 +1,12 @@
 👋 Hi, I’m @Bluevect
 
-🌱 Currently learning [Java](https://www.oracle.com/java/).
+🌱 Currently... doing nothing.
 
-👀 Love things with **logic**!
+👀 Love playing Minecraft.
 
 ---
 
-✨ **Practice makes perfect.**
+✨ **Reap what is sown.**
 
 <!---
 - 👋 Hi, I’m @Bluevect
